@@ -1,0 +1,7 @@
+{
+    "useSideMenu": true,
+    "lineBreaks": "gfm",
+    "additionalFooterText": "Cloned from the <a href='https://github.com/rapid7/metasploit-framework/wiki'>Metasploit Wiki</a> - ",
+    "anchorCharacter": "#",
+    "title": "Metasploit Wiki"
+}
