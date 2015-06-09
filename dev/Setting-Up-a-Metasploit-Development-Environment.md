@@ -196,10 +196,11 @@ sudo gconftool-2 --direct --config-source xml:readwrite:/etc/gconf/gconf.xml.def
 ```
 
 Or, you can navigate to Edit > Profiles >
-Highlight Default > Edit > Title and Command > Check **[ ] Run command
-as a login shell**. It looks like this:
+Highlight Default > Edit > Title and Command > Check **[ ] Run command as a login shell**.
 
-[[/screens/kali-gnome-terminal.png]]
+It looks like this:
+
+![](devimages/kali-gnome-terminal.png)
 
 Finally, see that you're now running Ruby 2.1.6:
 
